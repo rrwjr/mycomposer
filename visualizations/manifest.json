@@ -1,14 +1,14 @@
 {
-  "mycompany": {
-    "title": "[DISPLAY_NAME]",
-    "website": "[WEBSITE_URL]",
-    "logo": "[LOGO_URL]",
+  "rrwjr": {
+    "title": "",
+    "website": "https://github.com/rrwjr",
+    "logo": "https://avatars0.githubusercontent.com/u/27217737?v=3",
     "visualizations": {
 
 
       "list": {
           "license": "MIT",
-          "website": "[INFO_URL]",
+          "website": "https://github.com/rrwjr",
           "versions": {
             "1.0.0": {
               "simple": {
